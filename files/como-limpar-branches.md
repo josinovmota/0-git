@@ -1,6 +1,6 @@
-# The remote branch is gone! How do I clean up my local workspace of old branches
+# The remote branch is gone! How do I clean up my local workspace of old branches?
 
-You start your daily work and find out that the remote branch `origin/feature/answers` is gone. It means that in your when you open your computer this branch will still be there. To solve this we use the following command:
+You start your daily work and find out that the remote branch `origin/feature/answers` is gone. It means that when you open your computer, this branch will still be there -- only locally. To solve this we use the following command:
 
 ```shell
 git remote prune origin

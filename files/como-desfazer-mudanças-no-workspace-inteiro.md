@@ -6,7 +6,7 @@ In order to undo all the changes that you made in the entire workspace you'll ha
 git restore .
 ```
 
-If you want to restore everything to a particular HEAD of another Branch, you'll have to use the flag `--source=<branch>`.
+If you want to restore everything to a particular HEAD of another branch, you'll have to use the flag `--source=<branch>`.
 
 ```shell
 git restore --source=feature/answers .
