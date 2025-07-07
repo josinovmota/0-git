@@ -1,6 +1,6 @@
 # How do you undo changes for the entire workspace
 
-In order to undo all the changes that you made in the entire workspace you'll have to use the command `git restore .`. The `.` means that you're including everything in the current working directory.
+In order to undo all the changes that you've made in the entire workspace you'll have to use the command `git restore .`. The `.` means that you're including everything in the current working directory.
 
 ```shell
 git restore .

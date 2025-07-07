@@ -1,8 +1,8 @@
 # How to undo change on a single file
 
-Let's imagine that your boss asked you to change the `main.py` file language to **Portuguese** but in the middle of the process he said "Its ok, no need to do this anymore". Now, you have to restore the file to the last commit.
+Let's imagine that your boss asked you to change the `main.py` file language to **Portuguese** but in the middle of the process he said "It's ok, no need to do this anymore". Now, you have to restore the file to the last commit.
 
-In order to do that, you'll have to restore the `main.py` file to its state before your changes. The command to do this is `git restore <file-name>`:
+In order to do that, you'll have to restore the `main.py` file to its state before changes. The command to do this is `git restore <file-name>`:
 
 ```shell
 git restore main.py
