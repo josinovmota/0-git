@@ -1,6 +1,6 @@
 # git-exercise
 
-![0-git-header](/assets/SD.png)
+![0-git-header](assets/SD.png)
 
 ## a. How do you clean a Git workspace of un-versioned files?
 
