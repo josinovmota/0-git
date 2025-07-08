@@ -1,5 +1,7 @@
 # git-exercise
 
+![0-git-header](/assets/SD.png)
+
 ## a. How do you clean a Git workspace of un-versioned files?
 
 [Explanation](./files/limpeza-de-arquivos-não-versionados.md)
